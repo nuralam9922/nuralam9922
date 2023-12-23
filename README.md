@@ -1,4 +1,4 @@
-# Hi there, I'm NURALAM MONDAL! 👋
+# Hi there, I'm NURALAM MONDAL! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 I'm passionate about web development and constantly learning to improve my skills. Welcome to my GitHub profile! 👨‍💻
 

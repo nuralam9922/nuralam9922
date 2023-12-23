@@ -5,8 +5,7 @@ I'm passionate about web development and constantly learning to improve my skill
 ## 🌱 Currently Learning
 - Frontend Frameworks (e.g., React)
 - Backend Technologies (e.g., Node.js)
-```
-```
+
 ## 🔧 Skills
 
     <strong>HTML5 & CSS3</strong> 🚀
@@ -16,8 +15,6 @@ I'm passionate about web development and constantly learning to improve my skill
 
 
 
-```
-```
 
 ## 🚀 Basic Frontend JavaScript Projects
 

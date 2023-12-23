@@ -7,29 +7,50 @@ I'm passionate about web development and constantly learning to improve my skill
 - Backend Technologies (e.g., Node.js)
 
 ## 🔧 Skills
- **Advanced HTML5 & CSS3 🚀**
-  - Proficient in semantic HTML5 markup
-  - Expertise in crafting responsive and visually appealing user interfaces with advanced CSS3 techniques
-  - Experience with CSS preprocessors like SASS/SCSS for more maintainable stylesheets
-  - In-depth understanding of CSS Grid and Flexbox for advanced layout design
-  - Implementation of complex design systems and styling architectures
 
-**JavaScript (ES6+) 🥷**
-  - Proficient in modern JavaScript (ES6+) for building dynamic and interactive web applications.
-  - Experience with features such as arrow functions, destructuring, and async/await for writing efficient and clean code.
-  - Familiarity with ES6+ concepts like classes and modules, enhancing code organization and maintainability.
-  - Developing interactive user interfaces using libraries or frameworks like React.js.
+<div style="display: flex; flex-wrap: wrap;">
 
- **Responsive Web Design 📱**
-  - Proficient in creating responsive and mobile-friendly web designs
-  - Utilization of media queries and flexible layouts for optimal user experiences
-  - Ensuring compatibility across a variety of devices and screen sizes
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+    <strong>HTML5 & CSS3</strong> 🚀
+    <ul>
+      <li>Semantic HTML5</li>
+      <li>Responsive UIs</li>
+      <li>SASS/SCSS</li>
+      <li>CSS Grid & Flexbox</li>
+      <li>Design systems</li>
+    </ul>
+  </div>
 
-**Git & GitHub 🐱**
-  - Advanced proficiency in Git for version control, ensuring a smooth collaborative workflow in development teams.
-  - Extensive use of GitHub for project management, creating well-documented repositories, and contributing to open-source projects.
-  - Expertise in branching strategies, pull requests, and conflict resolution for effective collaboration.
-  - Knowledge of Git workflows such as Gitflow for managing feature releases and bug fixes.
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+    <strong>JavaScript (ES6+)</strong> 🥷
+    <ul>
+      <li>Modern JS</li>
+      <li>Arrow functions, async/await</li>
+      <li>ES6+ concepts</li>
+      <li>React.js for UIs</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+    <strong>Responsive Design</strong> 📱
+    <ul>
+      <li>Mobile-friendly</li>
+      <li>Media queries</li>
+      <li>Cross-device compatibility</li>
+    </ul>
+  </div>
+
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+    <strong>Git & GitHub</strong> 🐱
+    <ul>
+      <li>Version control with Git</li>
+      <li>GitHub for project management</li>
+      <li>Gitflow workflows</li>
+    </ul>
+  </div>
+
+</div>
+
 
 ## 🚀 Basic Frontend JavaScript Projects
 
@@ -59,8 +80,6 @@ I'm open to collaborating on interesting projects. If you have something cool in
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NUR-9922&show_icons=true&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api?username=NUR-9922&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NUR-9922&theme=dark&hide_border=false)
 

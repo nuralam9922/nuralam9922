@@ -1,12 +1,12 @@
 # Hi there, I'm Nuralam Mondal! 👋
 
 I'm passionate about web development and constantly learning to improve my skills. Welcome to my GitHub profile! 👨‍💻
-| 🌱 **Currently Learning**              | 🔧 **Skills**                     |
-|----------------------------------------|-----------------------------------|
-| - Frontend Frameworks (e.g., React)    | - **HTML5 & CSS3** 🚀            |
-| - Backend Technologies (e.g., Node.js)  | - **JavaScript (ES6+)** 🥷       |
-|                                        | - **Responsive Design** 📱       |
-|                                        | - **Git & GitHub** 🐱            |
+| 🌱 **Currently Learning**                      | 🔧 **Skills**                     |
+|----------------------------------------         |-----------------------------------|
+| - Frontend Frameworks (e.g., React)             | - **HTML5 & CSS3** 🚀            |
+| - Backend Technologies (e.g., Node.js)          | - **JavaScript (ES6+)** 🥷       |
+|                                                 | - **Responsive Design** 📱       |
+|                                                 | - **Git & GitHub** 🐱            |
 
 
 

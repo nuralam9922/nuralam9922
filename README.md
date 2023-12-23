@@ -22,13 +22,13 @@ I'm passionate about web development and constantly learning to improve my skill
    - Developed an interactive quiz application using HTML, CSS, and JavaScript.
    - Features include multiple-choice questions, scoring, and a user-friendly interface.
    - Implemented responsive design for seamless usage on various devices.
-   - [Check it out](https://github.com/your-username/Awesome-Quiz-Application)
+   - [Check it out](https://nur-9922.github.io/Awesome-Quiz-Application)
 
 2. **Simple Games**
    - Collection of straightforward and entertaining games built with HTML, CSS, and JavaScript.
    - Games may include classics like Tic Tac Toe, Snake, and more.
    - A fun project for learning and practicing game development concepts.
-   - [Explore the games](https://github.com/your-username/SIMPLE-GAMES)
+   - [Explore the games](https://nur-9922.github.io/SIMPLE-GAMES)
 
 3. **Sliders**
    - Created a customizable image slider component using HTML, CSS, and JavaScript.
@@ -40,13 +40,13 @@ I'm passionate about web development and constantly learning to improve my skill
    - Developed a random password generator to enhance online security.
    - Allows users to generate strong and secure passwords with customizable options.
    - Built using HTML, CSS, and JavaScript for a straightforward user experience.
-   - [Generate passwords](https://github.com/your-username/random-pas-gen)
+   - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
 
 5. **Todo List**
    - Designed a simple and efficient to-do list application using HTML, CSS, and JavaScript.
    - Features include task creation, completion tracking, and the ability to delete tasks.
    - A practical project for organizing and managing daily tasks.
-   - [Manage your tasks](https://github.com/your-username/Todo-list)
+   - [Manage your tasks](https://nur-9922.github.io/Todo-list/)
 
 
 

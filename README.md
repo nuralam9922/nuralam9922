@@ -10,46 +10,24 @@ I'm passionate about web development and constantly learning to improve my skill
 
 <div style="display: flex; flex-wrap: wrap;">
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>HTML5 & CSS3</strong> 🚀
-    <ul>
-      <li>Semantic HTML5</li>
-      <li>Responsive UIs</li>
-      <li>SASS/SCSS</li>
-      <li>CSS Grid & Flexbox</li>
-      <li>Design systems</li>
-    </ul>
   </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>JavaScript (ES6+)</strong> 🥷
-    <ul>
-      <li>Modern JS</li>
-      <li>Arrow functions, async/await</li>
-      <li>ES6+ concepts</li>
-      <li>React.js for UIs</li>
-    </ul>
   </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>Responsive Design</strong> 📱
-    <ul>
-      <li>Mobile-friendly</li>
-      <li>Media queries</li>
-      <li>Cross-device compatibility</li>
-    </ul>
   </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #f0f0f0; border-radius: 8px;">
+  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>Git & GitHub</strong> 🐱
-    <ul>
-      <li>Version control with Git</li>
-      <li>GitHub for project management</li>
-      <li>Gitflow workflows</li>
-    </ul>
   </div>
 
 </div>
+
 
 
 ## 🚀 Basic Frontend JavaScript Projects

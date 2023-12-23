@@ -33,20 +33,18 @@ I'm passionate about web development and constantly learning to improve my skill
 
 ## 🚀 Basic Frontend JavaScript Projects
 
-1. **CRUD App With Local Storage**
+1. **🔄 CRUD App With Local Storage**
    - [Explore the CRUD App](https://nur-9922.github.io/CRUD-App-With-Local-Storage/)
 
-2. **Simple Games**
+2. **🎮 Simple Games**
    - [Explore the games](https://nur-9922.github.io/SIMPLE-GAMES)
 
-3. **Sliders**
-   - [See it in action](https://github.com/your-username/sliders)
+3. **🖼️ Sliders**
+   *[See it in action](https://github.com/your-username/sliders)
 
-4. **Random Password Generator**
-   - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
-
-5. **Todo List**
-   - [Manage your tasks](https://nur-9922.github.io/Todo-list/)
+4. **🔐 Random Password Generator**
+   * [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
+  
 
 ## 📫 Let's Connect
 - Email: [mail.nur.9922@gmail.com](mailto:mail.nur.9922@gmail.com)

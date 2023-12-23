@@ -18,11 +18,11 @@ I'm passionate about web development and constantly learning to improve my skill
 
 ## 🚀 Projects
 
-1. **Awesome Quiz Application**
-   - Developed an interactive quiz application using HTML, CSS, and JavaScript.
-   - Features include multiple-choice questions, scoring, and a user-friendly interface.
-   - Implemented responsive design for seamless usage on various devices.
-   - [Check it out](https://nur-9922.github.io/Awesome-Quiz-Application)
+1. **CRUD App With Local Storage**
+   - Developed a simple CRUD (Create, Read, Update, Delete) application using HTML, CSS, and JavaScript.
+   - Utilized local storage to persistently store and manage data on the client side.
+   - Provides a seamless user experience for managing and interacting with data.
+   - [Explore the CRUD App](https://nur-9922.github.io/CRUD-App-With-Local-Storage/)
 
 2. **Simple Games**
    - Collection of straightforward and entertaining games built with HTML, CSS, and JavaScript.

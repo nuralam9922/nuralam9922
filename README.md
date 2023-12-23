@@ -16,19 +16,38 @@ I'm passionate about web development and constantly learning to improve my skill
 
 
 
-## 🚀 Basic Frontend JavaScript Projects
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
 
-1. **🔄 CRUD App With Local Storage**
-   - [Explore the CRUD App](https://nur-9922.github.io/CRUD-App-With-Local-Storage/)
+  <h3>🔄 CRUD App With Local Storage</h3>
+  <p><a href="https://nur-9922.github.io/CRUD-App-With-Local-Storage/">Explore the CRUD App</a></p>
+  <img src="https://link-to-image.com" alt="CRUD App" style="max-width: 100%; height: auto;">
 
-2. **🎮 Simple Games**
-   - [Explore the games](https://nur-9922.github.io/SIMPLE-GAMES)
+</div>
 
-3. **🖼️ Sliders**
-   - [See it in action](https://github.com/your-username/sliders)
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
 
-4. **🔐 Random Password Generator**
-   - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
+  <h3>🎮 Simple Games</h3>
+  <p><a href="https://nur-9922.github.io/SIMPLE-GAMES">Explore the games</a></p>
+  <img src="https://link-to-image.com" alt="Simple Games" style="max-width: 100%; height: auto;">
+
+</div>
+
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+
+  <h3>🖼️ Sliders</h3>
+  <p><a href="https://github.com/your-username/sliders">See it in action</a></p>
+  <img src="https://link-to-image.com" alt="Sliders" style="max-width: 100%; height: auto;">
+
+</div>
+
+<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+
+  <h3>🔐 Random Password Generator</h3>
+  <p><a href="https://nur-9922.github.io/random-pas-gen/">Generate passwords</a></p>
+  <img src="https://link-to-image.com" alt="Password Generator" style="max-width: 100%; height: auto;">
+
+</div>
+
   
 
 ## 🤝 Open to Collaboration

@@ -1,4 +1,4 @@
-# Hi there, I'm NURALAM MONDAL! 👋
+# Hi there, I'm Nuralam Mondal! 👋
 
 I'm passionate about web development and constantly learning to improve my skills. Welcome to my GitHub profile! 👨‍💻
 

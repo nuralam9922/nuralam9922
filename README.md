@@ -2,15 +2,32 @@
 
 I'm passionate about web development and constantly learning to improve my skills. Welcome to my GitHub profile! 👨‍💻
 
-## 🌱 Currently Learning
-- Frontend Frameworks (e.g., React)
-- Backend Technologies (e.g., Node.js)
-
-## 🔧 Skills
-- **HTML5 & CSS3** 🚀
-- **JavaScript (ES6+)** 🥷
-- **Responsive Design** 📱
-- **Git & GitHub** 🐱
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>🌱 <strong>Currently Learning</strong></th>
+<th>🔧 <strong>Skills</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>- Frontend Frameworks (e.g., React)</td>
+<td>- <strong>HTML5 &amp; CSS3</strong> 🚀</td>
+</tr>
+<tr>
+<td>- Backend Technologies (e.g., Node.js)</td>
+<td>- <strong>JavaScript (ES6+)</strong> 🥷</td>
+</tr>
+<tr>
+<td></td>
+<td>- <strong>Responsive Design</strong> 📱</td>
+</tr>
+<tr>
+<td></td>
+<td>- <strong>Git &amp; GitHub</strong> 🐱</td>
+</tr>
+</tbody>
+</table>
 
 ## 🚀 Basic Frontend JavaScript Projects
 

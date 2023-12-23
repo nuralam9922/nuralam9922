@@ -31,24 +31,25 @@ I'm passionate about web development and constantly learning to improve my skill
   - Expertise in branching strategies, pull requests, and conflict resolution for effective collaboration.
   - Knowledge of Git workflows such as Gitflow for managing feature releases and bug fixes.
 
-## 🚀 Projects
+## 🚀 Basic Frontend JavaScript Projects
 
 1. **CRUD App With Local Storage**
-   - Simple CRUD application using HTML, CSS, and JavaScript. [Explore the CRUD App](https://nur-9922.github.io/CRUD-App-With-Local-Storage/)
+   - [Explore the CRUD App](https://nur-9922.github.io/CRUD-App-With-Local-Storage/)
 
 2. **Simple Games**
-   - Collection of entertaining games built with HTML, CSS, and JavaScript. [Explore the games](https://nur-9922.github.io/SIMPLE-GAMES)
+   - [Explore the games](https://nur-9922.github.io/SIMPLE-GAMES)
 
 3. **Sliders**
-   - Customizable image slider component using HTML, CSS, and JavaScript. [See it in action](https://github.com/your-username/sliders)
+   - [See it in action](https://github.com/your-username/sliders)
 
 4. **Random Password Generator**
-   - Web-based password generator for enhanced online security. [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
+   - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
 
 5. **Todo List**
-   - Efficient to-do list application using HTML, CSS, and JavaScript. [Manage your tasks](https://nur-9922.github.io/Todo-list/)
+   - [Manage your tasks](https://nur-9922.github.io/Todo-list/)
 
 ## 📫 Let's Connect
+- Email: [mail.nur.9922@gmail.com](mailto:mail.nur.9922@gmail.com)
 - [Instagram](https://www.instagram.com/nuralam_9922/)
 
 ## 🤝 Open to Collaboration

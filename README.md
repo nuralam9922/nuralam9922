@@ -14,7 +14,7 @@ I'm passionate about web development and constantly learning to improve my skill
   - In-depth understanding of CSS Grid and Flexbox for advanced layout design
   - Implementation of complex design systems and styling architectures
 
-**JavaScript (ES6+)**
+**JavaScript (ES6+) 🥷**
   - Proficient in modern JavaScript (ES6+) for building dynamic and interactive web applications.
   - Experience with features such as arrow functions, destructuring, and async/await for writing efficient and clean code.
   - Familiarity with ES6+ concepts like classes and modules, enhancing code organization and maintainability.
@@ -25,7 +25,7 @@ I'm passionate about web development and constantly learning to improve my skill
   - Utilization of media queries and flexible layouts for optimal user experiences
   - Ensuring compatibility across a variety of devices and screen sizes
 
-**Git & GitHub**
+**Git & GitHub 🐱**
   - Advanced proficiency in Git for version control, ensuring a smooth collaborative workflow in development teams.
   - Extensive use of GitHub for project management, creating well-documented repositories, and contributing to open-source projects.
   - Expertise in branching strategies, pull requests, and conflict resolution for effective collaboration.

@@ -1,20 +1,19 @@
 # Hi there, I'm Nuralam Mondal! 👋
 
 I'm passionate about web development and constantly learning to improve my skills. Welcome to my GitHub profile! 👨‍💻
-
-<table style="width:100%;">
+<table>
   <tr>
-    <th style="text-align:left;">🌱 Currently Learning</th>
-    <th style="text-align:left;">🔧 Skills</th>
-  </tr>
-  <tr>
-    <td>
+    <td style="border: none; padding: 20px; vertical-align: top;">
+      
+## 🌱 Currently Learning
 
 - Frontend Frameworks (e.g., React)
 - Backend Technologies (e.g., Node.js)
 
     </td>
-    <td>
+    <td style="border: none; padding: 20px; vertical-align: top;">
+
+## 🔧 Skills
 
 - **HTML5 & CSS3** 🚀
 - **JavaScript (ES6+)** 🥷
@@ -23,7 +22,26 @@ I'm passionate about web development and constantly learning to improve my skill
 
     </td>
   </tr>
+  <tr>
+    <td style="border: none; padding: 20px; vertical-align: top;">
+
+## 🌱 Next in Line
+
+- Mobile App Development (e.g., Flutter)
+- DevOps Tools (e.g., Docker)
+
+    </td>
+    <td style="border: none; padding: 20px; vertical-align: top;">
+
+## 🔧 More Skills
+
+- **Python** 🐍
+- **Database Design** 📊
+
+    </td>
+  </tr>
 </table>
+
 
 
 ## 🚀 Basic Frontend JavaScript Projects

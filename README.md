@@ -47,8 +47,8 @@ I'm passionate about web development and constantly learning to improve my skill
   
 
 ## 📫 Let's Connect
-- Email: [mail.nur.9922@gmail.com](mailto:mail.nur.9922@gmail.com)
-- [Instagram](https://www.instagram.com/nuralam_9922/)
+- [Email ✉️](mailto:mail.nur.9922@gmail.com)
+- [Instagram ](https://www.instagram.com/nuralam_9922/)
 
 ## 🤝 Open to Collaboration
 

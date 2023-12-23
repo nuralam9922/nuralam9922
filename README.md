@@ -51,9 +51,7 @@ I'm passionate about web development and constantly learning to improve my skill
 
 
 ## 📫 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/nuralam-mondal/)
-- [Twitter](https://twitter.com/your_twitter_handle)
+- [Instagram](https://www.instagram.com/nuralam_9922/)
 
 ## 🤝 Open to Collaboration
 
@@ -61,6 +59,6 @@ I'm open to collaborating on interesting projects. If you have something cool in
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=NUR-9922&show_icons=true&theme=radical)
 
-<!-- Feel free to add more sections, badges, or customize the existing content based on your preferences -->
+Happy coding! 😄

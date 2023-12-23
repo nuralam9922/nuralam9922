@@ -11,7 +11,7 @@ I'm passionate about web development and constantly learning to improve my skill
 - **JavaScript (ES6+)** 🥷
 - **Responsive Design** 📱
 - **Git & GitHub** 🐱
-``` ```
+
 ## 🚀 Basic Frontend JavaScript Projects
 
 1. **🔄 CRUD App With Local Storage**

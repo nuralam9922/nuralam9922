@@ -5,29 +5,21 @@ I'm passionate about web development and constantly learning to improve my skill
 ## 🌱 Currently Learning
 - Frontend Frameworks (e.g., React)
 - Backend Technologies (e.g., Node.js)
-
+```
 ## 🔧 Skills
 
-<div style="display: flex; flex-wrap: wrap;">
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>HTML5 & CSS3</strong> 🚀
-  </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>JavaScript (ES6+)</strong> 🥷
-  </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
     <strong>Responsive Design</strong> 📱
-  </div>
 
-  <div style="flex: 1; margin: 0.5em; padding: 1em; background-color: #dadada; border-radius: 8px;">
+
     <strong>Git & GitHub</strong> 🐱
-  </div>
 
 </div>
-
+```
 
 
 ## 🚀 Basic Frontend JavaScript Projects

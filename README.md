@@ -16,37 +16,10 @@ I'm passionate about web development and constantly learning to improve my skill
 
 
 
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
+| Project | Link | Image |
+|---------|------|-------|
+| <div style="border: 1px solid #ddd; padding: 15px;"> <h3>🔄 CRUD App With Local Storage</h3> <p><a href="https://nur-9922.github.io/CRUD-App-With-Local-Storage/">Explore the CRUD App</a></p> <img src="https://link-to-image.com" alt="CRUD App" style="max-width: 100%; height: auto;"> </div> | <div style="border: 1px solid #ddd; padding: 15px;"> <h3>🎮 Simple Games</h3> <p><a href="https://nur-9922.github.io/SIMPLE-GAMES">Explore the games</a></p> <img src="https://link-to-image.com" alt="Simple Games" style="max-width: 100%; height: auto;"> </div> | <div style="border: 1px solid #ddd; padding: 15px;"> <h3>🖼️ Sliders</h3> <p><a href="https://github.com/your-username/sliders">See it in action</a></p> <img src="https://link-to-image.com" alt="Sliders" style="max-width: 100%; height: auto;"> </div> | <div style="border: 1px solid #ddd; padding: 15px;"> <h3>🔐 Random Password Generator</h3> <p><a href="https://nur-9922.github.io/random-pas-gen/">Generate passwords</a></p> <img src="https://link-to-image.com" alt="Password Generator" style="max-width: 100%; height: auto;"> </div> |
 
-  <h3>🔄 CRUD App With Local Storage</h3>
-  <p><a href="https://nur-9922.github.io/CRUD-App-With-Local-Storage/">Explore the CRUD App</a></p>
-  <img src="https://link-to-image.com" alt="CRUD App" style="max-width: 100%; height: auto;">
-
-</div>
-
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
-
-  <h3>🎮 Simple Games</h3>
-  <p><a href="https://nur-9922.github.io/SIMPLE-GAMES">Explore the games</a></p>
-  <img src="https://link-to-image.com" alt="Simple Games" style="max-width: 100%; height: auto;">
-
-</div>
-
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
-
-  <h3>🖼️ Sliders</h3>
-  <p><a href="https://github.com/your-username/sliders">See it in action</a></p>
-  <img src="https://link-to-image.com" alt="Sliders" style="max-width: 100%; height: auto;">
-
-</div>
-
-<div style="border: 1px solid #ddd; padding: 15px; margin-bottom: 20px;">
-
-  <h3>🔐 Random Password Generator</h3>
-  <p><a href="https://nur-9922.github.io/random-pas-gen/">Generate passwords</a></p>
-  <img src="https://link-to-image.com" alt="Password Generator" style="max-width: 100%; height: auto;">
-
-</div>
 
   
 

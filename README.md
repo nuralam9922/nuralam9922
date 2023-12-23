@@ -43,7 +43,7 @@ I'm passionate about web development and constantly learning to improve my skill
    - [See it in action](https://github.com/your-username/sliders)
 
 4. **🔐 Random Password Generator**
-  - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
+   - [Generate passwords](https://nur-9922.github.io/random-pas-gen/)
   
 
 ## 📫 Let's Connect

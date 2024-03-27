@@ -2,7 +2,7 @@
 
 I'm a passionate web developer constantly seeking to enhance my skills and create awesome projects. Welcome to my GitHub profile! 👨‍💻
 
-![coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="100%"/>
 
 ## 🌱 Currently Learning
 
@@ -45,10 +45,8 @@ I'm open to collaborating on exciting projects. If you have something cool in mi
 ### Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nuralam9922&theme=dark&hide_border=false)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nuralam9922&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🚀 Happy Coding!
 
-Let's build something awesome together! 😄
-
+<h1 style="text-align: center;">Let's build something awesome together! 😄</h1>
+<img src="https://media.giphy.com/media/TdfyKrN7HGTIY/giphy.gif" alt="Programmer Handshake" width="100%"/>

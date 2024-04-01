@@ -35,7 +35,7 @@ I'm open to collaborating on exciting projects. If you have something cool in mi
 ## 📫 Let's Connect
 
 - [Email ✉️](mailto:mail.nur.9922@gmail.com)
-- [Instagram 📸](https://www.instagram.com/nuralam_9922/)
+- [LinkedIn 🔗 ](https://www.linkedin.com/in/nuralam9922)
 
 ## 📈 GitHub Stats
 

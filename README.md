@@ -1,6 +1,6 @@
 # Hi there, I'm Nuralam Mondal! 👋
 
-I'm a passionate web developer constantly seeking to enhance my skills and create awesome projects. Welcome to my GitHub profile! 👨‍💻
+Aspiring Web Developer with a Passion for Technology and Continuous Learning 🚀
 
 
 ## 🌱 Currently Learning

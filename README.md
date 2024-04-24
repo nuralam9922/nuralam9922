@@ -2,30 +2,50 @@
 
 I'm a passionate web developer constantly seeking to enhance my skills and create awesome projects. Welcome to my GitHub profile! 👨‍💻
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="coding" width="100%"/>
 
 ## 🌱 Currently Learning
+<div style="display: flex; justify-content: center; gap: 20px;">
+    <div style="text-align: center;">
+        <h2 style="color: #6D28D9; font-size: 24px; margin-bottom: 10px;">Learned</h2>
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li>HTML & CSS <span style="color: #6D28D9;">🎨</span></li>
+            <li>JavaScript (JS) <span style="color: #6D28D9;">🚀</span></li>
+            <li>Tailwind CSS <span style="color: #6D28D9;">🌈</span></li>
+            <li>Projects <span style="color: #6D28D9;">✅</span></li>
+            <li>Intermediate JS Knowledge <span style="color: #6D28D9;">🧠</span></li>
+            <li>React Basics <span style="color: #6D28D9;">⚛️</span></li>
+            <li>React Intermediate <span style="color: #6D28D9;">🧠</span></li>
+            <li>Redux <span style="color: #1E3A8A;">🔄</span></li>
+            <li>React Query <span style="color: #1E3A8A;">🔍</span></li>
+            <li>React Projects <span style="color: #6D28D9;">✅</span></li>
+        </ul>
+    </div>
+    <div style="text-align: center;">
+        <h2 style="color: #1E3A8A; font-size: 24px; margin-bottom: 10px;">Learning Now</h2>
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+             <li>Backend as a Service In React <span style="color: #C53030;">🛠️</span></li>
+            <li>React Full Stack Project <span style="color: #1E3A8A;">🌐</span></li>
+            <li>React Optimization <span style="color: #1E3A8A;">⚙️</span></li>
+        </ul>
+    </div>
+    <div style="text-align: center;">
+        <h2 style="color: #C53030; font-size: 24px; margin-bottom: 10px;">Future Learning</h2>
+        <ul style="list-style-type: none; padding: 0; margin: 0;">
+            <li>TypeScript <span style="color: #C53030;">📘</span></li>
+            <li>TypeScript in React <span style="color: #C53030;">📗</span></li>
+            <li>Next.js Basics <span style="color: #C53030;">🚀</span></li>
+            <li>Next.js Optimization <span style="color: #C53030;">🔍</span></li>
+            <li>Next.js Full Stack Projects <span style="color: #C53030;">🌐</span></li>
+            <li>Backend as a Service <span style="color: #C53030;">🛠️</span></li>
+            <li>Mobile Frontend Development <span style="color: #C53030;">📱</span></li>
+            <li>React Native (Seminars) <span style="color: #C53030;">📚</span></li>
+        </ul>
+    </div>
+</div>
 
-- Frontend Frameworks like React 🚀
-- Backend Technologies including Node.js 🛠️
-- Exploring databases and more! 💡
 
-## 🔧 Skills
 
-Here's what I bring to the table:
 
-- **Frontend Development**:
-  - JavaScript (ES6+) 🚀
-  - React.js ⚛️
-  - HTML5 & CSS3 💅
-
-- **Backend Development**:
-  - Basic understanding of Node.js 🛠️
-
-- **Version Control**:
-  - Git & GitHub 🐱
-
-I'm continuously honing my skills and exploring new technologies to create better web experiences. 💻✨
 
 
 ## 🛠️ Technologies and Tools I use:

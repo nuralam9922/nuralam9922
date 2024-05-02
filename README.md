@@ -66,9 +66,10 @@ Aspiring Web Developer with a Passion for Technology and Continuous Learning �
 
 ## ➡️ My GitHub Data:
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
- <img src="https://github-readme-stats.vercel.app/api?username=nuralam9922&show_icons=true" alt="nuralam9922" width="400"  height='200'/>
+| <img width="450em" src="https://github-profile-trophy.vercel.app/?username=nuralam9922&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuralam9922&show_icons=true&locale=en&layout=compact" alt="Vikash's Most used lang" /> |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=nuralam9922" alt="nuralam9922 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=nuralam9922&show_icons=true&count_private=true" />   |
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuralam9922" alt="nuralam9922" width="400"  height='200'/>
-
-</div>
+### Github contributions:
+<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/nuralam9922/nuralam9922/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
+<h4 align="center">Isometric view of contributions in the last year.</h4>

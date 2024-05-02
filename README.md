@@ -70,6 +70,4 @@ Aspiring Web Developer with a Passion for Technology and Continuous Learning ðŸš
 | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                           <img  width="450em"   src="https://streak-stats.demolab.com?user=nuralam9922" alt="nuralam9922 Streak" />                                           |  <img width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=nuralam9922&show_icons=true&count_private=true" />   |
 
-### Github contributions:
-<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/nuralam9922/nuralam9922/blob/output/github-contribution-grid-snake-dark.svg" /> </p> 
-<h4 align="center">Isometric view of contributions in the last year.</h4>
+
